@@ -1,8 +1,3 @@
----
-
-## 🇬🇧 **English Version (Markdown)**
-
-```markdown
 # ToDoList – Plan Your Day, Boost Your Focus 🗓️✅🧠
 
 🔗 **Live demo:**  
@@ -14,10 +9,11 @@
 Built using a _desktop-first_ approach with responsive (fluid) layout, it works great across all screen sizes — from desktops to mobile devices.
 
 📝 Users can:
-- Add new tasks ✍️  
-- Mark tasks as completed ✅  
-- Delete individual tasks 🗑️  
-- Clear all tasks with one click 🔄  
+
+- Add new tasks ✍️
+- Mark tasks as completed ✅
+- Delete individual tasks 🗑️
+- Clear all tasks with one click 🔄
 
 Whether you're a student, developer, or business owner — this tool is for anyone who values **time**, **clarity**, and **daily momentum**.
 
