@@ -1,7 +1,7 @@
 # ToDoList – Плануй свої справи кожного дня 🗓️✅🧠
 
 🔗 **Демо:**  
-[https://constantinekobushka.github.io/todo-list-js](https://constantinekobushka.github.io/todo-list-js)
+[https://constantinekobushka.github.io/todo-list-js/](https://constantinekobushka.github.io/todo-list-js/)
 
 ## 🔎 Опис проєкту
 

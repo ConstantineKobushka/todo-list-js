@@ -1,7 +1,7 @@
 # ToDoList – Plan Your Day, Boost Your Focus 🗓️✅🧠
 
 🔗 **Live demo:**  
-[https://constantinekobushka.github.io/todo-list-js](https://constantinekobushka.github.io/todo-list-js)
+[https://constantinekobushka.github.io/todo-list-js/](https://constantinekobushka.github.io/todo-list-js/)
 
 ## 🔎 Project Overview
 
