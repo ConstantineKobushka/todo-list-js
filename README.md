@@ -3,7 +3,9 @@
 🔗 **Live demo:**  
 [https://constantinekobushka.github.io/todo-list-js/](https://constantinekobushka.github.io/todo-list-js/)
 
-## 🔎 Project Overview
+![ToDoList Preview](preview.png)
+
+## 🔎 Project Description
 
 **ToDoList** is a lightweight yet powerful task manager designed to help you stay focused, organized, and in control of your day.  
 Built using a _desktop-first_ approach with responsive (fluid) layout, it works great across all screen sizes — from desktops to mobile devices.
@@ -46,6 +48,6 @@ Whether you're a student, developer, or business owner — this tool is for anyo
 ```bash
 git clone https://github.com/ConstantineKobushka/todo-list-js
 
-Open the project folder in your code editor (e.g., VS Code)
+Open the project folder in your code editor (for example VS Code)
 and open the index.html file in your browser — and the site is ready to view.
 ```
